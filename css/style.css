@@ -128,7 +128,7 @@
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
     }
-
+    /* changed the font size of the company name on mobile display*/
     .nav-bar  h1 {
         font-size: 1rem;
     }
