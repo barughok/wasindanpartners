@@ -128,6 +128,10 @@
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
     }
+
+    .nav-bar  h1 {
+        font-size: 1rem;
+    }
 }
 
 .navbar-light .navbar-brand {
@@ -158,6 +162,8 @@
         transition: .5s;
         opacity: 1;
     }
+
+    
 }
 
 
